@@ -1,0 +1,17 @@
+.titulo {
+  background-image: url('../../public/cont.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-flex;
+  height: 600px;
+  justify-content: center;
+  list-style: none;
+  width: 100%;
+
+}
+.tit {
+  margin-top: 410px;
+  color: white;
+  font-size: 3rem;
+  border-color: black;
+}
